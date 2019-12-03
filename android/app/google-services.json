@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117436421032",
+    "firebase_url": "https://authentication-58cab.firebaseio.com",
+    "project_id": "authentication-58cab",
+    "storage_bucket": "authentication-58cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117436421032:android:c9c4edbfb8b1191c",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117436421032-39krde9l5l2ot9m5as342fcg5g5vf815.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication",
+            "certificate_hash": "aa90b762b36a5c025f34a45bcc4532c3be42abbf"
+          }
+        },
+        {
+          "client_id": "117436421032-qkk8ncirnsi4d2g8i2ne49ml2sjl7ncs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6EPr6kozzfsku-Vx9OopvRkGvDr_6jd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117436421032-qkk8ncirnsi4d2g8i2ne49ml2sjl7ncs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
